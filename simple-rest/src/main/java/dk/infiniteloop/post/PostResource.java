@@ -24,7 +24,6 @@ import javax.ws.rs.core.UriInfo;
  * @author sieker
  */
 @Path("posts")
-@Produces(MediaType.APPLICATION_JSON)
 public class PostResource {
     
     @Inject
