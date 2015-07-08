@@ -13,3 +13,4 @@ hs_err_pid*
 /forloops/target/
 /simple-rest/target/
 /simple-rest-jpa/target/
+/request-logger-filter/target/
